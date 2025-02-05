@@ -1,8 +1,6 @@
-Here's your updated README with your interests included:  
-
 ---
 
-# 💡 Yarrapureddy Parthiv Reddy  
+# 💡 Parthiv Reddy Yarrapureddy  
 
 🚀 **Aspiring Data Scientist | AI & ML Enthusiast | Full-Stack Developer**  
 
