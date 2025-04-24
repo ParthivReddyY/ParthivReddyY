@@ -2,7 +2,7 @@
 
 # 💡 Parthiv Reddy Yarrapureddy  
 
-🚀 **Aspiring Data Scientist | AI & ML Enthusiast | Full-Stack Developer**  
+🚀 **Aspiring Software Depeloper | Data Scientist | AI & ML Enthusiast | Full-Stack Developer**  
 
 👋 Hey there! I'm **Parthiv Reddy**, a **Computer Science and Engineering** student at **Mahindra University**, passionate about **Data Science, AI, and Software Development**. I love working on innovative projects that solve real-world problems using technology.  
 
